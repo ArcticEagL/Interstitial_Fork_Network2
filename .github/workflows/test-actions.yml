@@ -45,4 +45,4 @@ jobs:
           # Name for the target deployment environment
           environment: preprod
           # Git ref to deploy
-          ref: "" # optional
+          ref: "main" # optional
